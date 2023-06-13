@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,UAEE,QAAS,CACT,SACF,CACA,KACE,YACF,CACA,OACE,aACF,CACA,yBACE,kBACF","file":"styles.9250cfc8.css","sourceRoot":"..","sourcesContent":["html,\nbody {\n  margin: 0;\n  padding: 0;\n}\nbody {\n  padding: 20px;\n}\ncanvas {\n  display: block;\n}\n.inputs:not(:last-child) {\n  padding-bottom: 5px;\n}\n"]}
